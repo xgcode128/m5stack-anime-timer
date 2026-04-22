@@ -72,10 +72,12 @@ You can easily modify:
 
 ## 📸 Example
 
-![UI](assets/ui.png)
+![UI](assets/anime-timer-foto.png)
+![Device](assets/frame_28.png)
+![Instructions](assets/instructions.png)
 
 ---
 
 ## 🎬 Demo
 
-![Preview](assets/preview.gif)
+![Preview](assets/demo.mp4)
