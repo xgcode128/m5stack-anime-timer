@@ -75,10 +75,5 @@ You can easily modify:
 <p align="center">
   <img src="assets/ui.png" width="250"/>
   <img src="assets/instructions.png" width="250"/>
+  <img src="assets/animation_preview.png" width="250"/>
 </p>
-
----
-
-## 🎬 Demo
-
-![Preview](assets/demo.gif)
