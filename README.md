@@ -72,7 +72,7 @@ You can easily modify:
 
 ## 📸 Example
 
-![UI](assets/anime-timer-foto.png)
+![UI](assets/ui.png)
 ![Device](assets/frame_28.png)
 ![Instructions](assets/instructions.png)
 
