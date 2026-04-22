@@ -72,12 +72,13 @@ You can easily modify:
 
 ## 📸 Example
 
-![UI](assets/ui.png)
-![Device](assets/frame_28.png)
-![Instructions](assets/instructions.png)
+<p align="center">
+  <img src="assets/ui.png" width="250"/>
+  <img src="assets/instructions.png" width="250"/>
+</p>
 
 ---
 
 ## 🎬 Demo
 
-![Preview](assets/demo.mp4)
+![Preview](assets/demo.gif)
