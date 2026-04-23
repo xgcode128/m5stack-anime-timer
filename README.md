@@ -76,6 +76,8 @@ You can easily modify:
 
 ---
 
+# ⏱️ M5Stack Anime Timer
+
 ## 📸 Example
 
 <p align="center">
@@ -83,9 +85,3 @@ You can easily modify:
   <img src="assets/instructions.png" width="250"/>
   <img src="assets/animation_preview.png" width="250"/>
 </p>
-
----
-
-## 🎬 Demo
-
-![Preview](assets/demo.gif)
